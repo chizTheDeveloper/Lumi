@@ -6990,6 +6990,10 @@ PrefabInstance:
       propertyPath: dialogueText
       value: 
       objectReference: {fileID: 407499614}
+    - target: {fileID: 1987217621, guid: fb81bfc84fe8d194fa901ee595f966c9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 32.99
+      objectReference: {fileID: 0}
     - target: {fileID: 5148408433872836405, guid: fb81bfc84fe8d194fa901ee595f966c9, type: 3}
       propertyPath: m_RootOrder
       value: 12
