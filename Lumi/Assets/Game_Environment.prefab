@@ -234,7 +234,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flockUnitPrefab: {fileID: 3370312128491005627, guid: 5a8c804da65e002468dcc07e363de25e, type: 3}
-  flockSize: 50
+  flockSize: 150
   _minSpeed: 0
   _maxSpeed: 0
   _cohesionDistance: 0
@@ -29586,7 +29586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flockUnitPrefab: {fileID: -3557732378378612635, guid: babf366b81ae77247a753b252958726d, type: 3}
-  flockSize: 50
+  flockSize: 150
   _minSpeed: 0
   _maxSpeed: 0
   _cohesionDistance: 0
@@ -39335,7 +39335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flockUnitPrefab: {fileID: 556660209848887816, guid: 1c6dcb9d7308de34bbc3feb1b01672cf, type: 3}
-  flockSize: 50
+  flockSize: 150
   _minSpeed: 0
   _maxSpeed: 0
   _cohesionDistance: 0
@@ -64079,7 +64079,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e87bc564943e78e438a0d8770beaa4e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flockUnitPrefab: {fileID: 397471505494171561, guid: dac22cc6fa2df64498d9297096372a0d, type: 3}
+  flockUnitPrefab: {fileID: 5235999488027191844, guid: f9332193312b5c54aa5eb73d28907b80, type: 3}
   flockSize: 50
   _minSpeed: 0
   _maxSpeed: 0
@@ -88639,7 +88639,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flockUnitPrefab: {fileID: 1895112230896413265, guid: a496bdc1107e15d44a7b092b6f059c96, type: 3}
-  flockSize: 50
+  flockSize: 150
   _minSpeed: 0
   _maxSpeed: 0
   _cohesionDistance: 0
