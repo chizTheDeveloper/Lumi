@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 939
-  m_MinSize: {x: 879, y: 471}
-  m_MaxSize: {x: 16004, y: 14021}
+  m_MinSize: {x: 880, y: 492}
+  m_MaxSize: {x: 16005, y: 14042}
   vertical: 0
-  controlID: 7577
+  controlID: 123
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,10 +135,10 @@ MonoBehaviour:
     y: 0
     width: 1595
     height: 939
-  m_MinSize: {x: 603, y: 471}
-  m_MaxSize: {x: 12003, y: 14021}
+  m_MinSize: {x: 605, y: 492}
+  m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 7578
+  controlID: 124
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,10 +161,10 @@ MonoBehaviour:
     y: 0
     width: 1595
     height: 519
-  m_MinSize: {x: 603, y: 221}
-  m_MaxSize: {x: 12003, y: 4021}
+  m_MinSize: {x: 605, y: 221}
+  m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 7579
+  controlID: 125
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 22e8fffffee8ffff68e9ffff64fbffff68490000
+      m_ExpandedIDs: 66fbffff6cfbfffff4480000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -264,8 +264,8 @@ MonoBehaviour:
     y: 0
     width: 891
     height: 519
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 8}
   m_Panes:
   - {fileID: 8}
@@ -319,9 +319,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3300.7195, y: 2.2497559, z: 7138.476}
+    m_Target: {x: -5611.8916, y: -54.990646, z: 12222.076}
     speed: 2
-    m_Value: {x: -3300.7195, y: 2.2497559, z: 7138.476}
+    m_Value: {x: -5611.8916, y: -54.990646, z: 12222.076}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -372,9 +372,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.10098376, y: 0.3334398, z: -0.035948824, w: 0.93665785}
   m_Size:
-    m_Target: 8201.749
+    m_Target: 17.32051
     speed: 2
-    m_Value: 8201.749
+    m_Value: 17.32051
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -4424,8 +4424,8 @@ MonoBehaviour:
     y: 519
     width: 1595
     height: 420
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 23}
@@ -4471,22 +4471,22 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: 67
-  m_LastProjectPath: C:\Users\chume\OneDrive\Documents\GitHub\LUMI-Game\Lumi
+  m_LastProjectPath: C:\Users\chume\OneDrive\Documents\GitHub\Lumi\Lumi
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 25}
-    m_SelectedIDs: a8530000
-    m_LastClickedID: 21416
-    m_ExpandedIDs: 00000000a4530000a6530000a853000000ca9a3b
+    m_SelectedIDs: 745d0000
+    m_LastClickedID: 23924
+    m_ExpandedIDs: 00000000745d0000765d0000785d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4514,7 +4514,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a4530000a6530000a853000000ca9a3b
+    m_ExpandedIDs: 00000000745d0000765d0000785d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -4539,8 +4539,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 6220ffff
-    m_LastClickedInstanceID: -57246
+    m_SelectedInstanceIDs: 08490000
+    m_LastClickedInstanceID: 18696
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300004c4900008a4b0000784e0000ec4d0000a8500000c04e0000fe4d00004a87010026510000c44e000000000000
     m_RenameOverlay:
@@ -4622,7 +4622,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -6102
+  m_LastSelectedObjectID: -57246
 --- !u!114 &26
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -4680,7 +4680,7 @@ MonoBehaviour:
     m_CachedPref: -411
     m_ControlHash: 1412526313
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -57246
+  m_LastInspectedObjectInstanceID: 18696
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_LockTracker:
