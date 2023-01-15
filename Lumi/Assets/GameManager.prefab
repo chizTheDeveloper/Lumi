@@ -6962,6 +6962,10 @@ PrefabInstance:
       propertyPath: cameraToLookAt
       value: 
       objectReference: {fileID: 648600879}
+    - target: {fileID: 1540086859, guid: fb81bfc84fe8d194fa901ee595f966c9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12356.8
+      objectReference: {fileID: 0}
     - target: {fileID: 1605308930, guid: fb81bfc84fe8d194fa901ee595f966c9, type: 3}
       propertyPath: xpBar
       value: 
